@@ -1,11 +1,11 @@
 title: Parul Sharma # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A nomad Data Scientist who loves training neurons in brain and machines.  
   <br><br>
-  Second description 
+  Other than research, NLP and Computer Vision you can find me cooking, decorating corners of my house or may be training my muscles.
   <br><br>
-  <a href="https://www.linkedin.com/in/parul-s-216432178/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/parul-s-216432178/">Let's grow together on LinkedIn</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
